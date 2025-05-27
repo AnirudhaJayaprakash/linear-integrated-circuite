@@ -1,15 +1,10 @@
 # Design and Analysis of a Telescopic Cascode CMOS Operational Transconductance Amplifier
 
-**Ballambettu Milan Shankar Bhat**  
-Dept. of Electronics and Communication Engineering  
-The National Institute of Engineering, Mysore, India  
-2023ec_ballambettumilanshankarbhat_a@nie.ac.in
-
-**Anirudha Jayaprakash**  
-Dept. of Electronics and Communication Engineering  
-The National Institute of Engineering, Mysore, India  
-2023ec_aniruddhjayaprakas_a@nie.ac.in
-
+**Ballambettu Milan Shankar Bhat**                                       **Anirudha Jayaprakash**                                   
+Dept. of Electronics and Communication Engineering                       Dept. of Electronics and Communication Engineering  
+The National Institute of Engineering, Mysore, India                     The National Institute of Engineering, Mysore, India
+2023ec_ballambettumilanshankarbhat_a@nie.ac.in                           2023ec_aniruddhjayaprakas_a@nie.ac.in
+ 
 ---
 
 ## Abstract
