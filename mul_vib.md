@@ -1,7 +1,7 @@
 # Experiment 14: Monostable Multivibrator
 
 ## Objective
-Simulate and analyze a **monostable multivibrator** circuit in LTspice. The goal is to observe how the circuit produces a single output pulse of fixed width in response to a trigger, and to compare the measured pulse duration with theoretical predictions.
+Simulate and analyze  a **monostable multivibrator** circuit in LTspice. The goal is to observe how the circuit produces a single output pulse of fixed width in response to a trigger, and to compare the measured pulse duration with theoretical predictions.
 
 ## Theory
 A monostable multivibrator has **only one stable state**; it remains in this state until an external trigger pulse drives it into a temporary (unstable) state. Upon triggering, the circuit switches to its unstable state and generates a single output pulse. After a time determined by its RC timing network, the circuit automatically returns to the stable state. The pulse width is set by the resistor-capacitor (RC) network in the feedback loop. For example, in a simple transistor monostable, the pulse duration `T` is approximately `T = ln(2) * R * C` (≈ `0.693 * R * C`). 
